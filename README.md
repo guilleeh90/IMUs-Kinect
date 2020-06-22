@@ -1,4 +1,4 @@
-# IMUs-Kinect
-Python function to synchronize Inercial Measurament Units and obtain the angle between both of them.
+# IMUs-Kinect v2
+Python function to synchronize Inercial Measurament Units (Mbientlab) and obtain the angle between both of them.
 
-Python function to synchronize the angle measured with Inercial Measurament Units and Kinect 
+Python function to synchronize the angle measured with Inercial Measurament Units and Kinect v2
